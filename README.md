@@ -124,7 +124,7 @@
 1. **Clone the App:**
 
     ```bash
-    git clone https://github.com/mebsly-team/europower_be.git
+    git clone https://github.com/BloggingKIng/Ecommerce-Backend.git
     ```
 
 2. **Install the Required Libraries:**
